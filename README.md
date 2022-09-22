@@ -5,8 +5,9 @@
 
 ---
 
-  - ### <a title="AhmedNasser1601/Stock-Analysis" href="https://github.com/AhmedNasser1601/Stock-Analysis/blob/Main/Stock_Analysis.ipynb"><img width="100" alt="Google Colaboratory SVG Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/100px-Google_Colaboratory_SVG_Logo.svg.png">Stock Analysis</a>
-  - Based on |> <a href="https://www.kaggle.com/datasets/vijayvvenkitesh/microsoft-stock-time-series-analysis">Microsoft Stock dataset [Apr/2015 - Apr/2021]</a>
+  - ### <a title="AhmedNasser1601/Stock-Analysis" href="https://github.com/AhmedNasser1601/Stock-Analysis/blob/Main/Stock_Analysis_Netflix.ipynb"><img width="75" alt="Google Colaboratory SVG Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/100px-Google_Colaboratory_SVG_Logo.svg.png">Stock Analysis |> Netflix</a>
+  
+  - Based on |> <a href="https://www.kaggle.com/datasets/pritsheta/netflix-stock-data-from-2002-to-2021">Netflix Stock data from 2002 to 2021</a>
 
 ---
 
