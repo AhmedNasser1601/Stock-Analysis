@@ -3,7 +3,7 @@
 >> **Data Science Intern |> *CC-OL-911***
 >>> **Task1 >> *Stock Analysis***
 
-- <a href="#">LinkedIn Post</a>
+- <a href="https://www.linkedin.com/posts/ahmednasser1601_datascience-stockanalysis-netflix-activity-6978886035673870336-1eTL?utm_source=share&utm_medium=member_desktop">LinkedIn Post</a>
 - <a href="https://youtu.be/GaddR5aiq_U">YouTube Video</a>
 
 ---
